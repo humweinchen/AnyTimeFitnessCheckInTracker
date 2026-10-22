@@ -1,0 +1,9 @@
+{
+  "name": "anytime-fitness-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anytime Fitness Check-in Tracker and Branch Analytics Web App",
+  "scripts": {
+    "deploy": "vercel --prod"
+  }
+}
